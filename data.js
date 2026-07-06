@@ -1,6 +1,6 @@
 const users = [
     {id: 1, name: "Lisandi", role: "Admin"},
-    {id: 2, name: "Student", role: "User"}
+    {id: 2, name: "Student", role: "User1"}
 ];
 
 module.exports = users;
